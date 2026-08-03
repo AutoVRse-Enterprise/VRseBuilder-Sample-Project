@@ -1,0 +1,1141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc5a53fcd4b3473c8034b7e751438aad, type: 3}
+  m_Name: Bottom Clinching_Training_AudioPairTable
+  m_EditorClassIdentifier: 
+  tableCollectionName: Bottom Clinching_Training_VOStringTable
+  pairMap:
+  - key: In-this-module-you-will-be-taken-through-the-process-behind-bottom-clinching-of-radiator-parts.-We-are-currently-at-the-bottom-t
+    keyId: 59090784256
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: d3aa24ea6cb619b4fb4ed22b54f85d3e, type: 3}
+  - key: Lets-get-familiarized-with-the-station-first.
+    keyId: 59959005184
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 9b1c9c9932bd7b5469311d0c3a91a544, type: 3}
+  - key: The-bottom-tank-is-placed-in-a-bin-in-front-of-you.
+    keyId: 60835614720
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 54d95f473c0680e4899a196c66896cae, type: 3}
+  - key: First-things-first-pick-up-the-bottom-tank-and-place-it-on-the-green-mat.
+    keyId: 61703835648
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 18898b6d6aef6054190dbeb6ff150132, type: 3}
+  - key: Pick-up-the-bottom-tank-by-touching-it-and-place-it-on-the-green-mat.
+    keyId: 62546890752
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: c9da77ebaf276bc4cb0b36b25c0ea4d2, type: 3}
+  - key: We-need-to-load-the-brazed-core.
+    keyId: 63406723072
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: b71d055ae8882b240902ab8d574a8720, type: 3}
+  - key: Pick-up-the-core-and-inspect-for-any-damages.
+    keyId: 64258166784
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: eb090f3ca2fe0d6489948ae636580ccc, type: 3}
+  - key: Did-you-find-any-damages-during-the-inspection
+    keyId: 65109610496
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: a3e2c52fdb0238d4d9aafcd099b9f6da, type: 3}
+  - key: Inspect-the-brazed-core-and-answer-the-following-question
+    keyId: 65965248512
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 0086f6f75c0eca141ada1953d5593b28, type: 3}
+  - key: If-a-part-is-defective-you-need-to-add-a-red-tag-and-place-it-in-the-rejection-pallet.
+    keyId: 66808303616
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 8948bc673d155934b89af3ed7f5e9ef2, type: 3}
+  - key: Pick-up-the-red-tag-and-place-it-on-the-defective-core.
+    keyId: 67642970112
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 6d62d06db0f51e54497eb9ceaad1cca1, type: 3}
+  - key: Place-the-rejected-core-in-the-red-bin.
+    keyId: 68506996736
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: cce893cf55d5d004f933d13c57a656aa, type: 3}
+  - key: To-avoid-such-damages-always-pick-the-core-using-both-of-your-hands.
+    keyId: 69362634752
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: c6e54fa1bd229f341a4fdc813950c3a7, type: 3}
+  - key: Pick-up-the-core-using-both-of-your-hands-inspect-and-place-it-on-the-highlighted-spot.
+    keyId: 70184718336
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 90b96baebb844e54a9cddb89204de704, type: 3}
+  - key: Now-Place-the-brazed-core-on-the-highlighted-part
+    keyId: 71015190528
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 334c946fc6eeb6f44b64870fffd67a8d, type: 3}
+  - key: Place-the-brazed-core-on-the-highlighted-part
+    keyId: 71866634240
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 6eba32e83e62f4a48948ddeb82de0a50, type: 3}
+  - key: Now-push-the-brazed-core-into-the-machine.
+    keyId: 72705495040
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 333a1a23e60f4184ea2521748c4c242f, type: 3}
+  - key: push-the-brazed-core-into-the-machine
+    keyId: 73544355840
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: b51ce8d25b08e2b4baec34c34fd1d69c, type: 3}
+  - key: Next-up-use-both-of-your-hands-to-pick-up-the-tank-packing-and-add-it-to-the-header-plate.
+    keyId: 74404188160
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: d008a8bb4015f6a4c9dba4ddef7107c8, type: 3}
+  - key: When-adding-the-tank-packing-make-sure-that-it-has-no-twist-because-that-could-lead-to-radiator-leakage.
+    keyId: 75276603392
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: c14699832b498c046b0a2429a342332c, type: 3}
+  - key: Terrific-work-so-far
+    keyId: 76102881280
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: c7a43d20ba94fa74db3b7fe1f0fe8c24, type: 3}
+  - key: Next-we-need-to-use-a-roller-to-ensure-tank-packing-is-fit-correctly-in-the-groove.-See-me-do-it-once
+    keyId: 76933353472
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: b331e96a8d9cbbc4b8d476cb6ce63c2d, type: 3}
+  - key: Grab-the-roller-and-roll-it-over-the-tank-packing-similarly.
+    keyId: 77751242752
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 4bc157444a37c1245a522b5ca9953271, type: 3}
+  - key: Pick-up-the-roller-and-roll-it-over-the-tank-packing-similarly.
+    keyId: 78573326336
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: d7b6c7423c3fa0744a05306e20137f12, type: 3}
+  - key: Amazing-Work
+    keyId: 79420575744
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: d6782b4e0b79c9d4aa486b2f501d872c, type: 3}
+  - key: After-that-we-need-to-rub-the-bottom-tank-on-the-green-mat.-Let-me-show-how-to-do-it
+    keyId: 80272019456
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: a5d1764faae5ec44080ac300d7b8b70a, type: 3}
+  - key: You-got-the-idea-can-you-do-it-now
+    keyId: 81106685952
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 45663c4a4b7e7d3409844a7a2d0e8877, type: 3}
+  - key: Pick-up-the-bottom-tank-and-rub-it-on-the-green-mat.
+    keyId: 81995878400
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: d5846f8695f24d5449eef0b3c0039e22, type: 3}
+  - key: Rub-the-bottom-tank-on-the-green-mat.
+    keyId: 82876682240
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 50182137cac1dc24ca02ee2c7933aea6, type: 3}
+  - key: Place-the-bottom-tank-on-the-header-plate.
+    keyId: 83749097472
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 62b6b16c1aa1ea34a892374a2cb16534, type: 3}
+  - key: Impressive-work.-One-last-step-is-to-fit-the-tank-using-the-mallet.
+    keyId: 84575375360
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 524dda6ef224a9043bcfc1b6b915a999, type: 3}
+  - key: Pick-up-the-wooden-mallet
+    keyId: 85393264640
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 7a0aece61b658f14980066ed59448140, type: 3}
+  - key: hit-once-on-either-side-of-the-bottom-tank.
+    keyId: 86240514048
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: b72117ce08b2cdc419711823d742b533, type: 3}
+  - key: We-have-completed-the-prep-for-bottom-clinching
+    keyId: 87066791936
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: c6e9e0fe6607148459d8c64619a4f9bf, type: 3}
+  - key: Place-the-mallet-back
+    keyId: 87888875520
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 4ec013b7bf66b804aaccbb6a7ac1ab9b, type: 3}
+  - key: Push-the-core-out
+    keyId: 88719347712
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 91c952253867afa4c99be02d53e5dc85, type: 3}
+  - key: Push-the-core-out-by-holding-it-at-the-header-plate.
+    keyId: 89562402816
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: e849826d98fdeeb449690ba0172a5f86, type: 3}
+  - key: We-need-to-remove-the-core-from-the-holder.
+    keyId: 90401263616
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 0bfa6663472ece74f9761c3a93f6ae9f, type: 3}
+  - key: Pick-up-the-core-by-holding-it-at-the-header-plate-and-remove-it.
+    keyId: 91231735808
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: c42090a1398b807439eb1bafc20f4553, type: 3}
+  - key: This-is-the-bottom-clinching-machine.-Here-the-core-is-attached-to-the-bottom-tank-through-clinching-process.
+    keyId: 92104151040
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 924dd1961c3b4844ebe7648d57d99a1f, type: 3}
+  - key: In-this-station-you-can-activate-the-clinch-cycle-by-using-the-start-button.
+    keyId: 92943011840
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 8ec50d7f55394884d96f75a4b24239a5, type: 3}
+  - key: Lets-load-the-core.-Place-the-core-on-the-highlighted-position.
+    keyId: 93786066944
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 311beda762d9b074cbb9b1824391a7b9, type: 3}
+  - key: Place-the-core-on-the-highlighted-position.
+    keyId: 94671065088
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 0e1f091930164cf48bd2b68da9325fb0, type: 3}
+  - key: Make-sure-that-the-outlet-pipe-should-be-on-the-left-side-always-while-loading.
+    keyId: 95539286016
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 11d7111d677769642a3799997ad596d2, type: 3}
+  - key: The-core-is-not-correctly-set-into-the-machine-push-the-core-inside.
+    keyId: 96382341120
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 0e0c79c9217f4a446b8047ea664ad9a9, type: 3}
+  - key: Push-the-core-into-the-machine-to-load-it-correctly.
+    keyId: 97212813312
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 9e8f007a853f04a47bb3af27e35ebbeb, type: 3}
+  - key: To-start-clinching-touch-the-start-button-on-either-side-using-both-of-your-hands.
+    keyId: 98034896896
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: a0a35baa2957c3a45aa7d767bfe5b403, type: 3}
+  - key: Oops-you-need-to-use-both-your-hands-to-press-the-start-button-else-the-cycle-wont-start.
+    keyId: 98869563392
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: d69b681b3f08b9d4c913d4057be811c3, type: 3}
+  - key: Lets-bring-the-part-out-so-you-can-grab-it
+    keyId: 99700035584
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 1dcea1550ed9bed47b3f191a6a14c6c5, type: 3}
+  - key: Go-ahead-and-pick-up-the-clinched-part
+    keyId: 100572450816
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: a8f426404cd812c4385c0a39a0d312b6, type: 3}
+  - key: pick-up-the-clinched-part
+    keyId: 101415505920
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: d81555ea30fd2c34596c12882970b15f, type: 3}
+  - key: Now-place-the-part-on-to-the-worktable.
+    keyId: 102266949632
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: b8527cf3c83ac6c4fb5e0c6dc06818f8, type: 3}
+  - key: place-the-part-on-to-the-worktable
+    keyId: 103143559168
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 667afb983a6bd3b488acb5fbbcc3df88, type: 3}
+  - key: Let-us-now-fit-the-drain-cock.
+    keyId: 103965642752
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 824123224bf01c245afee7ace81379cf, type: 3}
+  - key: Pick-up-the-drain-cock-and-insert-it-to-the-core.
+    keyId: 104833863680
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: ab03e673b8c2f294c924ffc339db4a19, type: 3}
+  - key: Lets-rotate-the-drain-cock-twice
+    keyId: 105702084608
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: d3f5de307a3dea24ca9e24a7800151e9, type: 3}
+  - key: Well-Done
+    keyId: 106557722624
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: cc44e1ed5c17718498214b0a8211384d, type: 3}
+  - key: Now-we-need-to-tighten-the-drain-cock.
+    keyId: 107417554944
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 49bd8c641832aee429d77e15a56f20c5, type: 3}
+  - key: Pick-up-the-nut-runner-and-place-it-on-the-drain-cock.
+    keyId: 108281581568
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 377a3071017d8c34aa7fcb2aabc3f697, type: 3}
+  - key: Pick-up-the-nut-runner-and-place-it-on-the-drain-cock
+    keyId: 109112053760
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: e2200c8e67699cf4590eaabe9da30247, type: 3}
+  - key: Put-the-nut-runner-back-into-its-designated-spot.
+    keyId: 109938331648
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 376e449a41b52164ebc2e222ea564ed2, type: 3}
+  - key: Grab-the-nut-runner
+    keyId: 110802358272
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: cc4b18d4f7f69d64da3429c8ac8e288a, type: 3}
+  - key: place-the-nut-runner-on-table
+    keyId: 111632830464
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 4c893ba0ff8b3094abcac714a88a0c50, type: 3}
+  - key: place-the-nut-runner-it-on-table
+    keyId: 112480079872
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: a852e1854795f5e45be2fe87c806d5c4, type: 3}
+  - key: We-are-almost-done-at-this-station-pick-up-the-marker-and-make-a-mark-on-the-drain-cock.
+    keyId: 113327329280
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 40a47bd266be6da45a667e48c9c3df4b, type: 3}
+  - key: Pick-up-the-marker-and-make-a-mark-on-the-drain-cock.
+    keyId: 114182967296
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 8f0df37406105bb48847104f2513816c, type: 3}
+  - key: Put-the-marker-back-on-its-designated-spot.
+    keyId: 115042799616
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: a66e306975d6c834997ae1964839e470, type: 3}
+  - key: Put-the-marker-back-to-its-place.
+    keyId: 115898437632
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 3fbd1bfc1ba215e4cb577b1d7c1f49bd, type: 3}
+  - key: Its-time-to-proceed-to-the-bottom-edge-clinching-station.
+    keyId: 116749881344
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 57386481b6c2d1d49ba92a5aeb3e0c2d, type: 3}
+  - key: Unload-the-core-and-pick-it-up.
+    keyId: 117571964928
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 40579443067af0b4992f2380cdb6cecf, type: 3}
+  - key: We-are-now-at-the-bottom-edge-clinching-station.
+    keyId: 118431797248
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: a08e899c4418aa245896de549acf8629, type: 3}
+  - key: Lets-load-the-core-into-the-machine.
+    keyId: 119262269440
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 45df00d1928d1ad41be5dcc0c761e2e4, type: 3}
+  - key: Push-the-core-into-the-machine.
+    keyId: 120092741632
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 5cc976a9511cfaf4ab62e50ef1455fe5, type: 3}
+  - key: Touch-the-start-button-with-both-your-hands-to-start-the-bottom-edge-clinching.
+    keyId: 120939991040
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 02a4fe9354693fa46a9191abf2109de7, type: 3}
+  - key: With-this-we-have-successfully-completed-the-module-on-Bottom-Clinching.
+    keyId: 121762074624
+    localeId:
+      m_Code: en
+    audioClip: {fileID: 8300000, guid: 7d1e5e1dac181be429490a19bd2d1fdc, type: 3}
+  - key: In-this-module-you-will-be-taken-through-the-process-behind-bottom-clinching-of-radiator-parts.-We-are-currently-at-the-bottom-t
+    keyId: 59090784256
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: b248bf0030645a74e96789dbcd24141b, type: 3}
+  - key: Lets-get-familiarized-with-the-station-first.
+    keyId: 59959005184
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 7ebc83f6bc70efd43bf1926811662c33, type: 3}
+  - key: The-bottom-tank-is-placed-in-a-bin-in-front-of-you.
+    keyId: 60835614720
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 744431f2b797ef64bbeb19d2e0837799, type: 3}
+  - key: First-things-first-pick-up-the-bottom-tank-and-place-it-on-the-green-mat.
+    keyId: 61703835648
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 11eee5cc474822447b3da5ad3e036137, type: 3}
+  - key: Pick-up-the-bottom-tank-by-touching-it-and-place-it-on-the-green-mat.
+    keyId: 62546890752
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 87e4736ad69f15e4db5075067961bb82, type: 3}
+  - key: We-need-to-load-the-brazed-core.
+    keyId: 63406723072
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 8d30792c9e505764e9f52631c6cc27e1, type: 3}
+  - key: Pick-up-the-core-and-inspect-for-any-damages.
+    keyId: 64258166784
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 296e920b6ef45144d94333a5cdc47ea3, type: 3}
+  - key: Did-you-find-any-damages-during-the-inspection
+    keyId: 65109610496
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 18dcfcb74cc28c048aec498a28dcd185, type: 3}
+  - key: Inspect-the-brazed-core-and-answer-the-following-question
+    keyId: 65965248512
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 5101666debc660340bc0921739e4ae66, type: 3}
+  - key: If-a-part-is-defective-you-need-to-add-a-red-tag-and-place-it-in-the-rejection-pallet.
+    keyId: 66808303616
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: f5ccf56334cdc6f40a55d688173e8054, type: 3}
+  - key: Pick-up-the-red-tag-and-place-it-on-the-defective-core.
+    keyId: 67642970112
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: e81effbddaf289c498a9dc99c33e293b, type: 3}
+  - key: Place-the-rejected-core-in-the-red-bin.
+    keyId: 68506996736
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 136c9c0e9fcdd5b47bafd2001560a3cf, type: 3}
+  - key: To-avoid-such-damages-always-pick-the-core-using-both-of-your-hands.
+    keyId: 69362634752
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 34a8cb9ac92483442bbafd5a254c35fb, type: 3}
+  - key: Pick-up-the-core-using-both-of-your-hands-inspect-and-place-it-on-the-highlighted-spot.
+    keyId: 70184718336
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: c63b07c6d9f2d7b40ba49d277d1b91ca, type: 3}
+  - key: Now-Place-the-brazed-core-on-the-highlighted-part
+    keyId: 71015190528
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 29dadfdc88006904e879daa28aa0d2a0, type: 3}
+  - key: Place-the-brazed-core-on-the-highlighted-part
+    keyId: 71866634240
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 65e9715c9b5f87c4dbfa129c0cc4c64a, type: 3}
+  - key: Now-push-the-brazed-core-into-the-machine.
+    keyId: 72705495040
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 1e1acc13e660ddd4b850617ccc4e5685, type: 3}
+  - key: push-the-brazed-core-into-the-machine
+    keyId: 73544355840
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 6a6260f980fb00e459814cc2139031b7, type: 3}
+  - key: Next-up-use-both-of-your-hands-to-pick-up-the-tank-packing-and-add-it-to-the-header-plate.
+    keyId: 74404188160
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 79528456f70725d47b5b545b87e08757, type: 3}
+  - key: When-adding-the-tank-packing-make-sure-that-it-has-no-twist-because-that-could-lead-to-radiator-leakage.
+    keyId: 75276603392
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 1dc950cd3007ccb4bb82f3b049d62169, type: 3}
+  - key: Terrific-work-so-far
+    keyId: 76102881280
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 66d994a3ba2a9804893c36162525a69a, type: 3}
+  - key: Next-we-need-to-use-a-roller-to-ensure-tank-packing-is-fit-correctly-in-the-groove.-See-me-do-it-once
+    keyId: 76933353472
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: a9a0ec37f7cd6454fbc3363b0065fa77, type: 3}
+  - key: Grab-the-roller-and-roll-it-over-the-tank-packing-similarly.
+    keyId: 77751242752
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: d9809ef7e418f644a9abba6a9aeb2b2c, type: 3}
+  - key: Pick-up-the-roller-and-roll-it-over-the-tank-packing-similarly.
+    keyId: 78573326336
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 706ecc3fd4e46f94cbaad5c7ca529b92, type: 3}
+  - key: Amazing-Work
+    keyId: 79420575744
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: b3bb75ed476a7204096a317961b970cd, type: 3}
+  - key: After-that-we-need-to-rub-the-bottom-tank-on-the-green-mat.-Let-me-show-how-to-do-it
+    keyId: 80272019456
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 63989f10c8c9d4948b76e2ef12d5bd59, type: 3}
+  - key: You-got-the-idea-can-you-do-it-now
+    keyId: 81106685952
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 0ddeceb58a3cbdc4bb70a93cf3b42a0a, type: 3}
+  - key: Pick-up-the-bottom-tank-and-rub-it-on-the-green-mat.
+    keyId: 81995878400
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 22a5a10ec84521c48835238072a346c6, type: 3}
+  - key: Rub-the-bottom-tank-on-the-green-mat.
+    keyId: 82876682240
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: bc9b2410fe0bb774e8192b66bb58e1d5, type: 3}
+  - key: Place-the-bottom-tank-on-the-header-plate.
+    keyId: 83749097472
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 340fb2194ed02184c9c95e87790fda3e, type: 3}
+  - key: Impressive-work.-One-last-step-is-to-fit-the-tank-using-the-mallet.
+    keyId: 84575375360
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 19a5dff953c8b7f4181a199e02007e9b, type: 3}
+  - key: Pick-up-the-wooden-mallet
+    keyId: 85393264640
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: f5fb72e1bbce89748babdd315490239f, type: 3}
+  - key: hit-once-on-either-side-of-the-bottom-tank.
+    keyId: 86240514048
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 410bbc873742d7e48911035b1e59e848, type: 3}
+  - key: We-have-completed-the-prep-for-bottom-clinching
+    keyId: 87066791936
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 5ab2a72b3d98adf4da5d6cfe23de3199, type: 3}
+  - key: Place-the-mallet-back
+    keyId: 87888875520
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 2d1eeed396c483a4d89c0ca1f8ab4ede, type: 3}
+  - key: Push-the-core-out
+    keyId: 88719347712
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: ecd335f07cddc094596f57d7c4591daa, type: 3}
+  - key: Push-the-core-out-by-holding-it-at-the-header-plate.
+    keyId: 89562402816
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: baf572d0e6a645f42869670b2886df9f, type: 3}
+  - key: We-need-to-remove-the-core-from-the-holder.
+    keyId: 90401263616
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 3e909c6158c8d174e8b9902cec7cac84, type: 3}
+  - key: Pick-up-the-core-by-holding-it-at-the-header-plate-and-remove-it.
+    keyId: 91231735808
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: f3515ddc9f7af0c419498edf61c533b4, type: 3}
+  - key: This-is-the-bottom-clinching-machine.-Here-the-core-is-attached-to-the-bottom-tank-through-clinching-process.
+    keyId: 92104151040
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: c2a71da986913a14cbc41d6d43ae6109, type: 3}
+  - key: In-this-station-you-can-activate-the-clinch-cycle-by-using-the-start-button.
+    keyId: 92943011840
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 5194a7abfb8cb54469eed366072197a2, type: 3}
+  - key: Lets-load-the-core.-Place-the-core-on-the-highlighted-position.
+    keyId: 93786066944
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 90fb8f090717df44f8d7fcfa572dd72e, type: 3}
+  - key: Place-the-core-on-the-highlighted-position.
+    keyId: 94671065088
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 2b8e8f21d7a5f644d946fa1beb747f43, type: 3}
+  - key: Make-sure-that-the-outlet-pipe-should-be-on-the-left-side-always-while-loading.
+    keyId: 95539286016
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 55ff7f7eda72f2649bb0537388ed6cf6, type: 3}
+  - key: The-core-is-not-correctly-set-into-the-machine-push-the-core-inside.
+    keyId: 96382341120
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: e0c0ae6eb34152e46bcdc5f37f744eea, type: 3}
+  - key: Push-the-core-into-the-machine-to-load-it-correctly.
+    keyId: 97212813312
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: e7f26cc28d58d3148812e0b48460a5d2, type: 3}
+  - key: To-start-clinching-touch-the-start-button-on-either-side-using-both-of-your-hands.
+    keyId: 98034896896
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: f19941b9365b2c54aa488a01a7dcb367, type: 3}
+  - key: Oops-you-need-to-use-both-your-hands-to-press-the-start-button-else-the-cycle-wont-start.
+    keyId: 98869563392
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: d71dbf3ec7e0693409200f3a5dfd7ceb, type: 3}
+  - key: Lets-bring-the-part-out-so-you-can-grab-it
+    keyId: 99700035584
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: bf7df2f1f3a50d8459fe50fbcdd25a6d, type: 3}
+  - key: Go-ahead-and-pick-up-the-clinched-part
+    keyId: 100572450816
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 103af8f87a0a5824bb24c5fd07df6407, type: 3}
+  - key: pick-up-the-clinched-part
+    keyId: 101415505920
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 48ef58e8b4f2ba241a30485788586b1b, type: 3}
+  - key: Now-place-the-part-on-to-the-worktable.
+    keyId: 102266949632
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: f955f265b715e9d45bee3c049bb16627, type: 3}
+  - key: place-the-part-on-to-the-worktable
+    keyId: 103143559168
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: c26d688e8e45579498350dd6bc69f653, type: 3}
+  - key: Let-us-now-fit-the-drain-cock.
+    keyId: 103965642752
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 430162289e1ef6040b2cc8d0caf21eb3, type: 3}
+  - key: Pick-up-the-drain-cock-and-insert-it-to-the-core.
+    keyId: 104833863680
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 57c211406b586b2469d33229fa5d6b9d, type: 3}
+  - key: Lets-rotate-the-drain-cock-twice
+    keyId: 105702084608
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 1e7a19b0c01658c42b8171964a21f7e7, type: 3}
+  - key: Well-Done
+    keyId: 106557722624
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: f2ba358f214580940ac791c3bd4edc36, type: 3}
+  - key: Now-we-need-to-tighten-the-drain-cock.
+    keyId: 107417554944
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 4c2b220c884724c4588c7492d96e684c, type: 3}
+  - key: Pick-up-the-nut-runner-and-place-it-on-the-drain-cock.
+    keyId: 108281581568
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 575ec5987f885fd4c9f989bea5da631b, type: 3}
+  - key: Pick-up-the-nut-runner-and-place-it-on-the-drain-cock
+    keyId: 109112053760
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 8d650d8856a42894093b3b7255f1ea3d, type: 3}
+  - key: Put-the-nut-runner-back-into-its-designated-spot.
+    keyId: 109938331648
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 4ce235b777ec52444aab30604348096c, type: 3}
+  - key: Grab-the-nut-runner
+    keyId: 110802358272
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 0318b46b58783c247bccd882b7f52e41, type: 3}
+  - key: place-the-nut-runner-on-table
+    keyId: 111632830464
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 4ca82d24fd293db46884abc9506e6ad1, type: 3}
+  - key: place-the-nut-runner-it-on-table
+    keyId: 112480079872
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 4ca82d24fd293db46884abc9506e6ad1, type: 3}
+  - key: We-are-almost-done-at-this-station-pick-up-the-marker-and-make-a-mark-on-the-drain-cock.
+    keyId: 113327329280
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 6391194b39c9bcc46abfe8c7217fa7b8, type: 3}
+  - key: Pick-up-the-marker-and-make-a-mark-on-the-drain-cock.
+    keyId: 114182967296
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: bbcea77826182dc439cd65d36ef5cbe2, type: 3}
+  - key: Put-the-marker-back-on-its-designated-spot.
+    keyId: 115042799616
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: b9e8a6d6cd3248e4388d91f020cc0d26, type: 3}
+  - key: Put-the-marker-back-to-its-place.
+    keyId: 115898437632
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 2093b816e80acef44a89b9973da33b26, type: 3}
+  - key: Its-time-to-proceed-to-the-bottom-edge-clinching-station.
+    keyId: 116749881344
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 039075bf2b0e4714294ccf0fcea342f9, type: 3}
+  - key: Unload-the-core-and-pick-it-up.
+    keyId: 117571964928
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 9e56ccfd19156ca4f9041c5167ea9146, type: 3}
+  - key: We-are-now-at-the-bottom-edge-clinching-station.
+    keyId: 118431797248
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 58a21f05594272c4a9bfe03430a3f115, type: 3}
+  - key: Lets-load-the-core-into-the-machine.
+    keyId: 119262269440
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 34340ebb1e512bd46bf71d3a55fb7bd6, type: 3}
+  - key: Push-the-core-into-the-machine.
+    keyId: 120092741632
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 2a85beaa73408db42979770c2344f186, type: 3}
+  - key: Touch-the-start-button-with-both-your-hands-to-start-the-bottom-edge-clinching.
+    keyId: 120939991040
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 18dedb67404f0ba4880cba9e5727a9ca, type: 3}
+  - key: With-this-we-have-successfully-completed-the-module-on-Bottom-Clinching.
+    keyId: 121762074624
+    localeId:
+      m_Code: hi-IN
+    audioClip: {fileID: 8300000, guid: 6e1bc6566111a28438e1ef2de019dfbb, type: 3}
+  - key: In-this-module-you-will-be-taken-through-the-process-behind-bottom-clinching-of-radiator-parts.-We-are-currently-at-the-bottom-t
+    keyId: 59090784256
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: a93334599af01b4488e025c74ce193bd, type: 3}
+  - key: Lets-get-familiarized-with-the-station-first.
+    keyId: 59959005184
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: a532256fde7e07a4fb30bab6b20a39fb, type: 3}
+  - key: The-bottom-tank-is-placed-in-a-bin-in-front-of-you.
+    keyId: 60835614720
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: d95858ea9f438814287cc41685e9fc35, type: 3}
+  - key: First-things-first-pick-up-the-bottom-tank-and-place-it-on-the-green-mat.
+    keyId: 61703835648
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 549b83427bfd7a64686cef19212e32f4, type: 3}
+  - key: Pick-up-the-bottom-tank-by-touching-it-and-place-it-on-the-green-mat.
+    keyId: 62546890752
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 0cdaa3df13dfa674086d86c66ea991e7, type: 3}
+  - key: We-need-to-load-the-brazed-core.
+    keyId: 63406723072
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: a60315a0703f7764a9ac7f338049613a, type: 3}
+  - key: Pick-up-the-core-and-inspect-for-any-damages.
+    keyId: 64258166784
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: e64ccb243c8130644b36c8227d052c18, type: 3}
+  - key: Did-you-find-any-damages-during-the-inspection
+    keyId: 65109610496
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 50016c4753ecf1346b3f3220d499683c, type: 3}
+  - key: Inspect-the-brazed-core-and-answer-the-following-question
+    keyId: 65965248512
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 163e392b21c7c4d44b5f62bbaea5542b, type: 3}
+  - key: If-a-part-is-defective-you-need-to-add-a-red-tag-and-place-it-in-the-rejection-pallet.
+    keyId: 66808303616
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 736a773b2c87e544489bfee5156c59a3, type: 3}
+  - key: Pick-up-the-red-tag-and-place-it-on-the-defective-core.
+    keyId: 67642970112
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 579870d028a6c21438e4a4d921189b67, type: 3}
+  - key: Place-the-rejected-core-in-the-red-bin.
+    keyId: 68506996736
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 61c120b6cf434d541865872ddcd4367a, type: 3}
+  - key: To-avoid-such-damages-always-pick-the-core-using-both-of-your-hands.
+    keyId: 69362634752
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 08c3eddb67cc92d459e13255eae40dbc, type: 3}
+  - key: Pick-up-the-core-using-both-of-your-hands-inspect-and-place-it-on-the-highlighted-spot.
+    keyId: 70184718336
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: ffd32966aec52084a89f195ecbb8b01f, type: 3}
+  - key: Now-Place-the-brazed-core-on-the-highlighted-part
+    keyId: 71015190528
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 9fcef7e573d9aaf449df81c255a29769, type: 3}
+  - key: Place-the-brazed-core-on-the-highlighted-part
+    keyId: 71866634240
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: daa67c2c2e5405d4c9b2139d8c5e623f, type: 3}
+  - key: Now-push-the-brazed-core-into-the-machine.
+    keyId: 72705495040
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 17f0c6abfe3e9a241a6383ac2790d4aa, type: 3}
+  - key: push-the-brazed-core-into-the-machine
+    keyId: 73544355840
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: c1fe28cbed03c9d44a5323491e220c2a, type: 3}
+  - key: Next-up-use-both-of-your-hands-to-pick-up-the-tank-packing-and-add-it-to-the-header-plate.
+    keyId: 74404188160
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 9f43f81003ce10b439ebaafad4691cc1, type: 3}
+  - key: When-adding-the-tank-packing-make-sure-that-it-has-no-twist-because-that-could-lead-to-radiator-leakage.
+    keyId: 75276603392
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: fe5041716399a5d4382d8c41f1497300, type: 3}
+  - key: Terrific-work-so-far
+    keyId: 76102881280
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 536260dee42f62244b6f225892f8c17e, type: 3}
+  - key: Next-we-need-to-use-a-roller-to-ensure-tank-packing-is-fit-correctly-in-the-groove.-See-me-do-it-once
+    keyId: 76933353472
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 1880e1db423b45349a537ed5bfe7b3d3, type: 3}
+  - key: Grab-the-roller-and-roll-it-over-the-tank-packing-similarly.
+    keyId: 77751242752
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 7bf88dc04018e0f44bec5cd3c402a379, type: 3}
+  - key: Pick-up-the-roller-and-roll-it-over-the-tank-packing-similarly.
+    keyId: 78573326336
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 1a7146458b864de4e99920f47481d72e, type: 3}
+  - key: Amazing-Work
+    keyId: 79420575744
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: c14cc2579d345184eb324f091733244c, type: 3}
+  - key: After-that-we-need-to-rub-the-bottom-tank-on-the-green-mat.-Let-me-show-how-to-do-it
+    keyId: 80272019456
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 3d39f4772413c244aa50e17c40d1f2bb, type: 3}
+  - key: You-got-the-idea-can-you-do-it-now
+    keyId: 81106685952
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: b926c915dfb00c44aae75b0ada2ae9dd, type: 3}
+  - key: Pick-up-the-bottom-tank-and-rub-it-on-the-green-mat.
+    keyId: 81995878400
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: b0a346639b58e9346aba1fb044aeec99, type: 3}
+  - key: Rub-the-bottom-tank-on-the-green-mat.
+    keyId: 82876682240
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 2c8beca48c371934da513b31f0c934ab, type: 3}
+  - key: Place-the-bottom-tank-on-the-header-plate.
+    keyId: 83749097472
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: b23e3bbf24934ef4b9b057a2cbc92f38, type: 3}
+  - key: Impressive-work.-One-last-step-is-to-fit-the-tank-using-the-mallet.
+    keyId: 84575375360
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 8ac41af0dd72b9a4c8cb7d9bf0cbb9da, type: 3}
+  - key: Pick-up-the-wooden-mallet
+    keyId: 85393264640
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 245fdd3958885a04b94aea65b3be2593, type: 3}
+  - key: hit-once-on-either-side-of-the-bottom-tank.
+    keyId: 86240514048
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 7341a07d2eb0560419f5dccd0b04e5e9, type: 3}
+  - key: We-have-completed-the-prep-for-bottom-clinching
+    keyId: 87066791936
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: a440d376204b1cd4b86b3ef314582d34, type: 3}
+  - key: Place-the-mallet-back
+    keyId: 87888875520
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 2f8288bd36eac9a4e8c7eae8d5961016, type: 3}
+  - key: Push-the-core-out
+    keyId: 88719347712
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 6235a1e633bca7d4db95f30574c2821e, type: 3}
+  - key: Push-the-core-out-by-holding-it-at-the-header-plate.
+    keyId: 89562402816
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: d99577b5fd3643b45aaabee1444ab447, type: 3}
+  - key: We-need-to-remove-the-core-from-the-holder.
+    keyId: 90401263616
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 3060a104a876a9c4fb67836ecf1f6385, type: 3}
+  - key: Pick-up-the-core-by-holding-it-at-the-header-plate-and-remove-it.
+    keyId: 91231735808
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: f370ae3b88066b3439fe20ae504a39bc, type: 3}
+  - key: This-is-the-bottom-clinching-machine.-Here-the-core-is-attached-to-the-bottom-tank-through-clinching-process.
+    keyId: 92104151040
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 58689bf2e40bd3a4e8ae0a70425673b7, type: 3}
+  - key: In-this-station-you-can-activate-the-clinch-cycle-by-using-the-start-button.
+    keyId: 92943011840
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: a20273af946e556499f364b474ab2b5d, type: 3}
+  - key: Lets-load-the-core.-Place-the-core-on-the-highlighted-position.
+    keyId: 93786066944
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 1452f0d369bc092449a7d90fbc086434, type: 3}
+  - key: Place-the-core-on-the-highlighted-position.
+    keyId: 94671065088
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 81d9c4f92e2946648960b96d1dc71513, type: 3}
+  - key: Make-sure-that-the-outlet-pipe-should-be-on-the-left-side-always-while-loading.
+    keyId: 95539286016
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 270578f5b9d674f41ab88e88f7d16d50, type: 3}
+  - key: The-core-is-not-correctly-set-into-the-machine-push-the-core-inside.
+    keyId: 96382341120
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 863c6698a6497374a81ea7275ab06daa, type: 3}
+  - key: Push-the-core-into-the-machine-to-load-it-correctly.
+    keyId: 97212813312
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: ebe67a22ab420fa48b07ef79b89ff7b8, type: 3}
+  - key: To-start-clinching-touch-the-start-button-on-either-side-using-both-of-your-hands.
+    keyId: 98034896896
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: ecf03ff5faa56e04aa1df7b143e9b392, type: 3}
+  - key: Oops-you-need-to-use-both-your-hands-to-press-the-start-button-else-the-cycle-wont-start.
+    keyId: 98869563392
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 576bc548b1d8e1c4eacbf84099234ddf, type: 3}
+  - key: Lets-bring-the-part-out-so-you-can-grab-it
+    keyId: 99700035584
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: e5b77e914b90a7c44ab627a58f40a68e, type: 3}
+  - key: Go-ahead-and-pick-up-the-clinched-part
+    keyId: 100572450816
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 122a57fc3b9536140b391cf19c03869d, type: 3}
+  - key: pick-up-the-clinched-part
+    keyId: 101415505920
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 6d71323a561236e4fb63e446a88480ca, type: 3}
+  - key: Now-place-the-part-on-to-the-worktable.
+    keyId: 102266949632
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: f55a4d10f23b41441b97e581b6691072, type: 3}
+  - key: place-the-part-on-to-the-worktable
+    keyId: 103143559168
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 6ea0b1d8ffcd9b34c976359e2788427a, type: 3}
+  - key: Let-us-now-fit-the-drain-cock.
+    keyId: 103965642752
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: ff216b33fb78eb94c84b5e73a2b21719, type: 3}
+  - key: Pick-up-the-drain-cock-and-insert-it-to-the-core.
+    keyId: 104833863680
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 1637ed01168f9194eb19e19e3f1ad371, type: 3}
+  - key: Lets-rotate-the-drain-cock-twice
+    keyId: 105702084608
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 95e38baa55ce28a4194ac1394a1c8de0, type: 3}
+  - key: Well-Done
+    keyId: 106557722624
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 10ca5c8d3d00cbf43bd7dad25e95d035, type: 3}
+  - key: Now-we-need-to-tighten-the-drain-cock.
+    keyId: 107417554944
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 979994e89a643ee459c8b6bbe8843e93, type: 3}
+  - key: Pick-up-the-nut-runner-and-place-it-on-the-drain-cock.
+    keyId: 108281581568
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 52c9370178c93234a9ba0fdbe6aa13b7, type: 3}
+  - key: Pick-up-the-nut-runner-and-place-it-on-the-drain-cock
+    keyId: 109112053760
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 6e452fc6213b5c54c982892fed8981ce, type: 3}
+  - key: Put-the-nut-runner-back-into-its-designated-spot.
+    keyId: 109938331648
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 9ee1001b73fb96b4eaa105a7254f7409, type: 3}
+  - key: Grab-the-nut-runner
+    keyId: 110802358272
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 0f4f54cccc8da4f45bccd7cd488cee5f, type: 3}
+  - key: place-the-nut-runner-on-table
+    keyId: 111632830464
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 29d7c681ebdd79742a34bc62aafcf6ad, type: 3}
+  - key: place-the-nut-runner-it-on-table
+    keyId: 112480079872
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: ea0d1c8dc74fba449883acb5520a0909, type: 3}
+  - key: We-are-almost-done-at-this-station-pick-up-the-marker-and-make-a-mark-on-the-drain-cock.
+    keyId: 113327329280
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 0567004d4af368c4badc46c2240f7de2, type: 3}
+  - key: Pick-up-the-marker-and-make-a-mark-on-the-drain-cock.
+    keyId: 114182967296
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: f990900801d06d440a59450ce49d21bd, type: 3}
+  - key: Put-the-marker-back-on-its-designated-spot.
+    keyId: 115042799616
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: b3de8e5c32cbcc14e94c3e3dffb9cff1, type: 3}
+  - key: Put-the-marker-back-to-its-place.
+    keyId: 115898437632
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 0f53faa1fee28084294d7910bcae2fa9, type: 3}
+  - key: Its-time-to-proceed-to-the-bottom-edge-clinching-station.
+    keyId: 116749881344
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 3346a01ce3925654f829caf1d093446a, type: 3}
+  - key: Unload-the-core-and-pick-it-up.
+    keyId: 117571964928
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 879b79a0be25992429178f76d6850d0d, type: 3}
+  - key: We-are-now-at-the-bottom-edge-clinching-station.
+    keyId: 118431797248
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: e212933c6579fff4ba22bc82c5fd21ef, type: 3}
+  - key: Lets-load-the-core-into-the-machine.
+    keyId: 119262269440
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 377b47ebb0f46594e8223dfbb8fe6e45, type: 3}
+  - key: Push-the-core-into-the-machine.
+    keyId: 120092741632
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: bbbb77ae943c8994983fc57667256c03, type: 3}
+  - key: Touch-the-start-button-with-both-your-hands-to-start-the-bottom-edge-clinching.
+    keyId: 120939991040
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: d1c614c53bef19c4fa5113badb9a30c4, type: 3}
+  - key: With-this-we-have-successfully-completed-the-module-on-Bottom-Clinching.
+    keyId: 121762074624
+    localeId:
+      m_Code: mr-IN
+    audioClip: {fileID: 8300000, guid: 701f02e6d0d81eb42898246f1e4c8c20, type: 3}

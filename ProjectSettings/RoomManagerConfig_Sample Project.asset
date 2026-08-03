@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a29a8c892d9fcb47a26bab3466c94d1, type: 3}
+  m_Name: RoomManagerConfig_Sample Project
+  m_EditorClassIdentifier: VRseBuilder.Core::VRseBuilder.Core.Framework.RoomManagerConfig
+  <ProjectID>k__BackingField: 
+  <MainMenuScene>k__BackingField: Assets/VRseBuilder/MenuScene/MenuGlassUI.unity
+  <LiveLinkEnabled>k__BackingField: 0
+  <UseCustomAvatars>k__BackingField: 0
+  <MultiplayerEnabled>k__BackingField: 1
+  _stepNavigationDataEnabled: 0
+  _projectLanguages: []
+  experiences:
+  - _name: Radiator Assembly
+    _moduleId: 2348aea5-c762-40f0-81b5-a7187c38113b
+    _experienceDataList:
+    - _name: Radiator Assembly
+      _type: 0
+      _experienceId: 10243fb2-3d3a-4006-8b6c-5ee95bf603c7
+      _jsonUrl: 
+      _storyJsonPath: Story Files/Sample Project/Radiator Assembly_T.json
+      _devScene: Assets/StudioProjects/Sample Project/Modules/Radiator Assembly/Scenes/Radiator
+        Assembly_T.unity
+      _artScene: Assets/StudioProjects/Sample Project/Modules/Radiator Assembly/Scenes/Radiator
+        Assembly.unity
+    _scene: 
+    _devScene: 
+    _artScene: 
+    _evaluationScene: 
+    _category: 0
+    _URL_ModuleImage: 
+    LocaleNames: []
+    currentLanguageIndex: 0
+    _playMode: 2
+    _networkPlayerConfig:
+      _maxPlayers: 2
+      _playerConfigMode: 0
+      _roles: []
+      _subsets: []
+    _enableStepNavigation: 0
+    _includeInBuild: 1
+  photonAppSettings:
+    appIdFusion: 
+    appIdVoice: 
+    fixedRegion: 
+  loginAccessSettings:
+    loginEnabled: 0
+    pulseApiUrl: 
+    loginMethod: 1
+    isGuestLogin: 0
+  buildSettings:
+    companyName: 
+    productName: 
+    version: 0.1
+    overrideDefaultPackageName: 0
+    bundleVersionCode: 1
+    packageName: com.company.product
+    splitApplicationBinary: 0
+    developmentBuild: 0
