@@ -1,4 +1,4 @@
-%YAML 1.1
+﻿%YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
 MonoBehaviour:
@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b0e14b0ef93c0a34ab9240863090dd98, type: 3}
+  m_Script: {fileID: -124839874, guid: eb7ec8e7a499f0d4483f088593295e81, type: 3}
   m_Name: BrandManagerConfig_Sample Project
   m_EditorClassIdentifier: VRseBuilder.Core::VRseBuilder.Core.Systems.BrandManager.BrandManagerConfig
   _brandLogo: {fileID: 0}
